@@ -239,6 +239,8 @@ Dengan syarat:
 
 **Pembuat:** Akhmad Hendriawan — Wireless Sensor Network Laboratory, PENS (Politeknik Elektronika Negeri Surabaya)
 
+**Repository:** https://github.com/hendrieepis/camera-stereo-mount-pi5
+
 **Link lisensi:** https://creativecommons.org/licenses/by/4.0/
 
 ---
