@@ -47,7 +47,7 @@ screw_length = 7.0;
 // Base
 total_target_height = 70.0;
 
-base_thick = 2.5;
+base_thick = 3;
 top_sub_base_thick = 3.0;
 
 stick_height =
@@ -56,7 +56,7 @@ stick_height =
     - base_thick
     - top_sub_base_thick;
 
-stick_dia = 6.0;
+stick_dia = 14.0;
 
 
 // Lubang base bawah
